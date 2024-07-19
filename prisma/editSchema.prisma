@@ -1,0 +1,3 @@
+model Testing {
+    id String @id
+}
